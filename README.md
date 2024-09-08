@@ -6,4 +6,4 @@ It uses LLAMA & Unsplash & Langchain & Streamlit
 
 Future Implementation will be notified 
 
-share some thought here
+share some thoughts here
