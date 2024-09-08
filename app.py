@@ -2,7 +2,7 @@ import requests
 from langchain_ollama.llms import OllamaLLM
 
 # Unsplash API settings
-UNSPLASH_ACCESS_KEY = 'PXbkQKESJO-k-E1SQoCsDIIJbPncLcVeeljtCR2dQAY'
+UNSPLASH_ACCESS_KEY = 'Your_Acces_ID'
 
 def get_images_from_unsplash(query, per_page=1):
     url = "https://api.unsplash.com/search/photos"
