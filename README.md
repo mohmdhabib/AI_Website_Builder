@@ -1,4 +1,4 @@
-"# AI_Website_Builder" 
+"AI Website Builder" 
 
 it is a fun project mainly created for generating new websites with the AI
 
